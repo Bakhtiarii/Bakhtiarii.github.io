@@ -17,4 +17,19 @@ Here is my [Curriculum Vitae]().
 News
 ======
 ------
-* <b>Sep 2021</b>: Our paper [Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids’ Representations]() has been accepted to <b>EMNLP 2021</b> (BlackboxNLP)!
+<font size="3">
+<ul>
+	<li>
+		<b>Sep 2021</b>: Our paper <a href="" target="_blank">Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids’ Representations</a> has been accepted to <b>EMNLP 2021</b> (BlackboxNLP)!
+	</li>
+	<li>
+		<b>Sep 2021</b>: Accepted to enroll in the graduate school as a top student without passing the entrance examinations, University of Tehran
+	</li>
+	<li>
+		<b>Dec 2020</b>: Recieved Faculty of Engineering Award for ranking 1st among all of Computer Engineering students, University of Tehran
+	</li>
+	<li>
+		<b>Dec 2019</b>: Recieved Faculty of Engineering Award for ranking 3rd among all of Computer Engineering students, University of Tehran
+	</li>
+</ul>
+</font>

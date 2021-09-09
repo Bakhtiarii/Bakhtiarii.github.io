@@ -451,7 +451,8 @@ body:hover .visually-hidden button {
 }
 
 a.reversefootnote {
-  color: $gray;
+  // color: $gray;
+  color: vimeo-color;
   text-decoration: none;
 
   &:hover {
