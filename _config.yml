@@ -11,7 +11,8 @@ title                    : "Mohsen Fayyaz"
 title_separator          : "-"
 name                     : &name "Mohsen Fayyaz"
 description              : &description "B.Sc. Student at University of Tehran"
-url                      : https://mohsenfayyaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://mohsenfayyaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : ""
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mohsenfayyaz/mohsenfayyaz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +83,7 @@ analytics:
 author:
   name             : "Mohsen Fayyaz"
   avatar           : "profile.jpg"
-  bio              : "B.Sc. Student @ University of Tehran"
+  bio              : "Research Assistant<br>University of Tehran"
   location         : "Tehran, Iran"
   employer         :
   pubmed           : 

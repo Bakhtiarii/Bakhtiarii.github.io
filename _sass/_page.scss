@@ -49,7 +49,8 @@
 }
 
 .page__content {
-
+  font-size: 16px;
+  
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -238,6 +239,10 @@
   a {
     color: inherit;
   }
+}
+
+.page__date {
+  font-size: 14px;
 }
 
 .page__meta-title {

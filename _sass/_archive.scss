@@ -15,7 +15,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -104,6 +104,11 @@
 
   .page__meta {
     margin: 0 0 4px;
+  }
+
+  .page__date {
+    margin: 0 0 4px;
+    font-size: 14px;
   }
 }
 
