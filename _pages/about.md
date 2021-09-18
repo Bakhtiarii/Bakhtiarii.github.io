@@ -30,7 +30,7 @@ News
 		<b>Dec 2020</b>: Recieved Faculty of Engineering Award for ranking 1st among all of Computer Engineering students, University of Tehran
 	</li>
 	<li>
-		<b>Dec 2020</b>: The webiste <a href="https://nlpdataset.ir/" target="_blank">nlpdataset.ir</a> is online for listing NLP datasets and tools for  research and development in Farsi NLP.
+		<b>Dec 2020</b>: <a href="https://nlpdataset.ir/" target="_blank">nlpdataset.ir</a> is online for listing NLP datasets and tools for  research and development in Farsi NLP.
 	</li>
 	<li>
 		<b>Dec 2019</b>: Recieved Faculty of Engineering Award for ranking 3rd among all of Computer Engineering students, University of Tehran
