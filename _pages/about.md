@@ -21,7 +21,9 @@ News
 <font size="3">
 <ul>
 	<li>
-		<b>Sep 2021</b>: Our paper <a href="https://arxiv.org/abs/2109.05958" target="_blank">Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids’ Representations</a> has been accepted to <b>EMNLP 2021</b> (BlackboxNLP)!
+		<b>Sep 2021</b>: Our paper <a href="https://arxiv.org/abs/2109.05958" target="_blank">Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids’ Representations</a> has been accepted to <b>EMNLP 2021</b> (BlackboxNLP)! 
+		<!-- <a href="https://arxiv.org/abs/2109.05958">[📝 paper]</a> -->
+		<a href="/posts/layer-wise-probing-on-bertoids">[💻 blog]</a>
 	</li>
 	<li>
 		<b>Aug 2021</b>: Accepted to enroll in the graduate school as a top student without passing the entrance examinations, University of Tehran
