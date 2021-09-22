@@ -13,7 +13,7 @@ Hi! I am a senior B.Sc. Student at the <b>University of Tehran</b>, and I have t
 
 My primary research interest lies in the area of <b>Natural Language Processing</b> (NLP), where I have an <b>EMNLP 2021 (BlackboxNLP)</b> paper about layer-wise probing pre-trained language models. My B.Sc. final project was about assessing toxic detection knowledge of foundation models where I showed their interesting ability gained in pre-training as well as possible biases towards specific persons or groups.
 
-Here is my [Curriculum Vitae]().
+Here is my [Curriculum Vitae](/files/MohsenFayyaz_CV.pdf){:target="_blank"}.
 
 News
 ======
