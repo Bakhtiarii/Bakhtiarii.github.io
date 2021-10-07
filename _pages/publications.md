@@ -14,7 +14,7 @@ author_profile: true
 <b>[Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids’ Representations](https://arxiv.org/abs/2109.05958)</b> <br>
 <b><u>Mohsen Fayyaz</u></b>, Ehsan Aghazadeh, Ali Modarressi, Hosein Mohebbi and Mohammad Taher Pilehvar <br>
 <i>In Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, 2021</i>
-<br>[[📝 paper]](https://arxiv.org/abs/2109.05958) [[💻 blog]](/posts/layer-wise-probing-on-bertoids/)
+<br>[[📝 paper]](https://arxiv.org/abs/2109.05958) [[💻 blog]](/posts/layer-wise-probing-on-bertoids/) [[🖼 Poster]](/images/posts/2021-09-layer-wise-probing-on-bertoids/NotAllModelsLocalize_poster_36x48.pdf)
 
 <!-- {% include base_path %}
 
