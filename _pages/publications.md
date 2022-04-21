@@ -13,9 +13,9 @@ author_profile: true
 <hr>
 
 <b>[GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers]()</b> <br>
-Ali Modarressi, <b><u>Mohsen Fayyaz*</u></b>, Mohammad Taher Pilehvar <br>
+Ali Modarressi*, <b><u>Mohsen Fayyaz*</u></b>, Mohammad Taher Pilehvar <br>
 <small>\* Equal Contribution</small><br>
-<i style="color:#CC6D3D;"><b>NAACLE 2022</b></i>
+<i style="color:#CC6D3D;"><b>NAACL 2022</b></i>
 <!-- <br>[[📝 paper]]() [[🖼️ Poster]]() [[🎥 video]]() -->
 
 
@@ -23,7 +23,7 @@ Ali Modarressi, <b><u>Mohsen Fayyaz*</u></b>, Mohammad Taher Pilehvar <br>
 Ehsan Aghazadeh*, <b><u>Mohsen Fayyaz*</u></b> and Yadollah Yaghoobzadeh <br>
 <small>\* Equal Contribution</small><br>
 <i style="color:#CC6D3D;"><b>ACL 2022</b></i>
-<br>[[📝 paper]](https://arxiv.org/abs/2203.14139) [[🖼️ Poster]](/files/publications/2022_metaphors_in_plms/metaphors_poster_36x48.pdf) [[🎥 video]](https://www.youtube.com/watch?v=UKWFZSiP7OY)
+<br>[[📝 paper]](https://arxiv.org/abs/2203.14139) [[🖼️ Poster]](/files/publications/2022_metaphors_in_plms/metaphors_poster_36x48.pdf) [[🎥 video]](https://www.youtube.com/watch?v=UKWFZSiP7OY) [[code]](https://github.com/EhsanAghazadeh/Metaphors_in_PLMs)
 <!-- ################# -->
 
 <!-- ################# -->

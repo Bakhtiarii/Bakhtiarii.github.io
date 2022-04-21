@@ -9,11 +9,12 @@ redirect_from:
 ---
 About me
 ======
-Hi! I am a senior B.Sc. Student at the <b>University of Tehran</b>, and I have the pleasure of working with [Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}, [Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"}, and [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery){:target="_blank"} on natural language processing (NLP) and deep learning.
+Hi! I am a masters student at the <b>University of Tehran</b>, and I have the pleasure of working with [Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}, [Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"}, and [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery){:target="_blank"} on natural language processing (NLP) and deep learning.
 
-My primary research interest lies in the area of <b>Natural Language Processing</b> (NLP), where I have an <b>EMNLP 2021 (BlackboxNLP)</b> paper about layer-wise probing pre-trained language models. My B.Sc. final project was about assessing toxic detection knowledge of foundation models where I showed their interesting ability gained in pre-training as well as possible biases towards specific persons or groups.
+My primary research interest lies in the area of <b>Natural Language Processing</b> (NLP), where I have done research on quantifying token attribution in Transformers [NAACL 2022](), Metaphors in pre-trained language models [ACL 2022](https://arxiv.org/abs/2203.14139), and layer-wise probing PLMs [EMNLP 2021 (BlackboxNLP)](https://arxiv.org/abs/2109.05958).
+<!-- My B.Sc. final project was about assessing toxic detection knowledge of foundation models where I showed their interesting ability gained in pre-training as well as possible biases towards specific persons or groups. -->
 
-Here is my [Curriculum Vitae](/files/MohsenFayyaz_CV.pdf){:target="_blank"}.
+Feel free to [email](mailto:mohsen.fayyaz77@ut.ac.ir) me or check my [Curriculum Vitae](/files/MohsenFayyaz_CV.pdf){:target="_blank"}.
 
 News
 ======
