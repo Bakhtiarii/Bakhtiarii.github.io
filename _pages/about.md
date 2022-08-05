@@ -20,19 +20,21 @@ News
 ======
 ------
 <font size="3">
-<div style="overflow-y: auto; max-height: 300px">
+<div style="overflow-y: auto; max-height: 300px; padding-right: 10px;">
 <ul>
 	<li>
-		<b>Apr 2022</b>: Our paper "GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers" has been accepted to <b>NAACL 2022</b> main conference! <a href="" target="_blank">[paper]</a>
+		<b>Apr 2022</b>: Our paper "GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers" has been accepted to <b>NAACL 2022</b> main conference! 
+		<a href="https://aclanthology.org/2022.naacl-main.19.pdf" target="_blank">[paper]</a>
+		<a href="https://youtu.be/jgd9kUJlug4" target="_blank">[video]</a>
 	</li>
 	<li>
 		<b>Mar 2022</b>: Our paper "Metaphors in Pre-Trained Language Models: Probing and Generalization Across Datasets and Languages" has been accepted to <b>ACL 2022</b> main conference! 
-		<a href="https://arxiv.org/abs/2203.14139" target="_blank">[paper]</a>
+		<a href="https://aclanthology.org/2022.acl-long.144/" target="_blank">[paper]</a>
 		<a href="https://www.youtube.com/watch?v=UKWFZSiP7OY" target="_blank">[video]</a>
 	</li>
 	<li>
 		<b>Sep 2021</b>: Our paper "Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids’ Representations" has been accepted to <b>EMNLP 2021</b> (BlackboxNLP)! 
-		<a href="https://arxiv.org/abs/2109.05958">[paper]</a>
+		<a href="https://aclanthology.org/2021.blackboxnlp-1.29/">[paper]</a>
 		<!-- <a href="/posts/layer-wise-probing-on-bertoids">[blog]</a> -->
 	</li>
 	<li>
