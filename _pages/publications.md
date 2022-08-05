@@ -13,7 +13,7 @@ author_profile: true
 <hr>
 
 <b>[GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers](https://aclanthology.org/2022.naacl-main.19.pdf)</b> <br>
-Ali Modarressi*, <b><u>Mohsen Fayyaz*</u></b>, Mohammad Taher Pilehvar <br>
+Ali Modarressi*, <b><u>Mohsen Fayyaz*</u></b>, Yadollah Yaghoobzadeh, Mohammad Taher Pilehvar <br>
 <small>\* Equal Contribution</small><br>
 <i class="publication-conference">NAACL 2022</i>
 <br>

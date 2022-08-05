@@ -20,7 +20,7 @@ News
 ======
 ------
 <font size="3">
-<div style="overflow-y: auto; max-height: 300px; padding-right: 10px;">
+<div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
 	<li>
 		<b>Apr 2022</b>: Our paper "GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers" has been accepted to <b>NAACL 2022</b> main conference! 

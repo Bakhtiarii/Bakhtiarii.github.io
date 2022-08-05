@@ -8,18 +8,17 @@ tags:
   - BERToids
 ---
 <img style="margin: 9px;" align="right" src="/images/posts/2021-09-layer-wise-probing-on-bertoids/rsa_mnli.png" width="270" >
-This is a post for the EMNLP 2021 (BlackboxNLP) paper [Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids' Representations](https://arxiv.org/abs/2109.05958)
-<br>
+<!-- This is a post for the EMNLP 2021 (BlackboxNLP) paper [Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids' Representations](https://arxiv.org/abs/2109.05958) -->
+<!-- <br> -->
 <span class="authors">
-(Mohsen Fayyaz, Ehsan Aghazadeh, Ali Modarressi, Hosein Mohebbi, Mohammad Taher Pilehvar)
+(Mohsen Fayyaz\*, Ehsan Aghazadeh\*, Ali Modarressi, Hosein Mohebbi, Mohammad Taher Pilehvar)
 </span>
+> EMNLP 2021 (BlackboxNLP) \\
+> In this work, we extend the probing studies to ELECTRA and XLNet, showing that variations in pre-training objectives can result in different behaviors in encoding linguistic information. We show that
+> - Weight mixing results in edge probing does not lead to reliable conclusions in layer-wise cross model analysis studies and MDL probing is more informative in this setup.
+> - XLNet accumulates linguistic knowledge in the earlier layers than BERT, whereas that of ELECTRA is in the final layers.
+> - ELECTRA undergoes a slight change during fine-tuning, whereas XLNet experiences significant adjustments.
 <br><br>
-In this work, we extend the probing studies to ELECTRA and XLNet, showing that variations in pre-training objectives can result in different behaviors in encoding linguistic information. We show that
-<ul>
-  <li>Weight mixing results in edge probing does not lead to reliable conclusions in layer-wise cross model analysis studies and MDL probing is more informative in this setup.</li>
-  <li>XLNet accumulates linguistic knowledge in the earlier layers than BERT, whereas that of ELECTRA is in the final layers.</li>
-  <li>ELECTRA undergoes a slight change during fine-tuning, whereas XLNet experiences significant adjustments.</li>
-</ul>
 <a class="blue-button read-more-button" href="/posts/layer-wise-probing-on-bertoids/#read-more">read more</a>
 <a class="blue-button read-paper-button" href="https://arxiv.org/abs/2109.05958">read paper</a>
 <a class="blue-button poster-button" href="/images/posts/2021-09-layer-wise-probing-on-bertoids/NotAllModelsLocalize_poster_36x48.pdf">poster</a>
