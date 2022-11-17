@@ -12,6 +12,14 @@ author_profile: true
 <h2>2022</h2>
 <hr>
 
+<b>[BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning
+](https://arxiv.org/abs/2211.05610)</b> <br>
+<b><u>Mohsen Fayyaz*</u></b>, Ehsan Aghazadeh*, Ali Modarressi*, Mohammad Taher Pilehvar, Yadollah Yaghoobzadeh, Samira Ebrahimi Kahou <br>
+<small>\* Equal Contribution</small><br>
+<i class="publication-conference">ENLSP @ NeurIPS2022</i>
+<br>
+[[📝 paper]](https://arxiv.org/abs/2211.05610) 
+
 <b>[GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers](https://aclanthology.org/2022.naacl-main.19.pdf)</b> <br>
 Ali Modarressi*, <b><u>Mohsen Fayyaz*</u></b>, Yadollah Yaghoobzadeh, Mohammad Taher Pilehvar <br>
 <small>\* Equal Contribution</small><br>
