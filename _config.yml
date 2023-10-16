@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mohsen Fayyaz"
 title_separator          : "-"
 name                     : &name "Mohsen Fayyaz"
-description              : &description "Research Assistant at University of Tehran"
+description              : &description "CS Ph.D Student at UCLA"
 # url                      : https://mohsenfayyaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : ""
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Mohsen Fayyaz"
   avatar           : "profile.jpg"
-  bio              : "Research Assistant<br>University of Tehran"
-  location         : "Tehran, Iran"
+  bio              : "CS Ph.D. Student<br>UCLA"
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=h2jt7C0AAAAJ"
-  email            : "mohsen.fayyaz77@ut.ac.ir"
+  email            : "mohsenfayyaz@cs.ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -19,9 +19,21 @@ See more info at https://academicpages.github.io/
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
 https://super-unix.com/ubuntu/ubuntu-how-to-downgrade-ruby-on-ubuntu/
+sudo apt-get update
+cd
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+exec $SHELL
+git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+exec $SHELL
+git clone https://github.com/rbenv/rbenv-gem-rehash.git ~/.rbenv/plugins/rbenv-gem-rehash
 rbenv install 2.7.0
 rbenv global 2.7.0
 ruby -v
+
+sudo apt-get install ruby-full
 
 1. Clone the repository and made updates as detailed above
 1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
