@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mohsen_fayyaz"
+  username               : #&twitter "mohsen_fayyaz"
 facebook:
   username               :
   app_id                 :
@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Mohammadreza Bakhtiari"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student<br>SBU"
+  bio              : "Ph.D. Student<br>Stony Brook University"
   location         : "NY, United States"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=h2jt7C0AAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=h2jt7C0AAAAJ"
   email            : "mohammadreza.bakhtiari@stonybrook.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
