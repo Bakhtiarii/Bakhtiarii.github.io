@@ -9,15 +9,20 @@ redirect_from:
 ---
 About me
 ======
-Hi! I am a computer science Ph.D. student at <b>[UCLA](https://www.ucla.edu/)</b> advised by [Prof. Nanyun (Violet) Peng](https://vnpeng.net/). Previously, I recieved my master's degree at the <b>University of Tehran</b> advised by [Prof. Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"} and [Prof. Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}.
+Hi! I am a Ph.D. student in Electrical Engineering at <b>Stony Brook University</b>. Previously, I recieved my Bachelor's degree in Electrical Engineering from the <b>University of Tehran</b>. My research spans across multiple fields of artificial intelligence, including <b>Machine Learning</b>, <b>Reinforcement Learning</b>, <b>Optimization</b>, and <b>Social Network Analysis</b>.
 <!-- Hi! I am a master's student at the <b>University of Tehran</b>, and I have the pleasure of working with [Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}, [Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"}, and [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery){:target="_blank"} on natural language processing (NLP) and deep learning. -->
 
-My primary research interest lies in the area of <b>Natural Language Processing</b> (NLP), where I have done research on quantifying token attribution in Transformers [(ACL2023, ](https://aclanthology.org/2023.acl-long.149/)[NAACL2022)](https://aclanthology.org/2022.naacl-main.19), Metaphors in pre-trained language models [(ACL2022)](https://aclanthology.org/2022.acl-long.144/), layer-wise probing BERToids [(BlackboxNLP@EMNLP2021)](https://aclanthology.org/2021.blackboxnlp-1.29), and finding important examples by gradient-based dataset pruning [(ENLSP@NeurIPS2022)](https://arxiv.org/abs/2211.05610).
+With a strong mathematical background, I am actively involved in all phases of the research and data science lifecycle—from problem formulation and data extraction to statistical modeling and optimization techniques. My work focuses on solving complex, real-world problems using advanced AI models and innovative methodologies.
 <!-- My B.Sc. final project was about assessing toxic detection knowledge of foundation models where I showed their interesting ability gained in pre-training as well as possible biases towards specific persons or groups. -->
 
-Feel free to [email](mailto:mohsenfayyaz@cs.ucla.edu) me or check my [Curriculum Vitae](/files/MohsenFayyaz_CV.pdf){:target="_blank"}.
+Feel free to [reach out](mailto:mohammadreza.bakhtiari@stonybrook.edu
+) if you'd like to connect or discuss potential collaborations.
 
-News
+
+
+
+
+<!-- News
 ======
 ------
 <font size="3">
@@ -44,7 +49,7 @@ News
 	<li>
 		<b>Sep 2021</b>: Our paper "Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids’ Representations" has been accepted to <b>EMNLP 2021</b> (BlackboxNLP)! 
 		<a href="https://aclanthology.org/2021.blackboxnlp-1.29/">[paper]</a>
-		<!-- <a href="/posts/layer-wise-probing-on-bertoids">[blog]</a> -->
+		
 	</li>
 	<li>
 		<b>Aug 2021</b>: Accepted to enroll in graduate school as a top student without passing the entrance examinations, University of Tehran
@@ -60,4 +65,4 @@ News
 	</li>
 </ul>
 </div>
-</font>
+</font> -->
