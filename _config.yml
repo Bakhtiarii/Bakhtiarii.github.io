@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohammadreza Bakhtiari"
-  avatar           : "profile.jpg"
+  avatar           : "profile.HEIC"
   bio              : "Ph.D. Student<br>SBU"
   location         : "NY, United States"
   employer         :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mohammadreza-bakhtiarii/"
+  linkedin         : "mohammadreza-bakhtiarii"
   orcid            : 
   pinterest        :
   soundcloud       :
