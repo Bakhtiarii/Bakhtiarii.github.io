@@ -34,9 +34,7 @@ News
 	</li>
 	<li>
 
-</ul>
-</div>
-</font>
+
 
 
 
