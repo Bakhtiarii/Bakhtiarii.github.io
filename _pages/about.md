@@ -32,7 +32,7 @@ News
 		<b>Jan 2025</b>: Our paper "Global Perspectives on Laptop Features: A Sentiment Analysis of User Preferences in Developed and Developing Countries" has been published.
 		<a href="https://ieeexplore.ieee.org/abstract/document/10836738" target="_blank">[paper]</a>
 	</li>
-	<li>
+
 
 
 
