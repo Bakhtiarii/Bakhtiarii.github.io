@@ -22,6 +22,36 @@ Feel free to [reach out](mailto:mohammadreza.bakhtiari@stonybrook.edu
 
 
 
+News
+======
+------
+<font size="3">
+<div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
+<ul>
+	<li>
+		<b>Jan 2025</b>: Our paper "Global Perspectives on Laptop Features: A Sentiment Analysis of User Preferences in Developed and Developing Countries" has been published.
+		<a href="https://ieeexplore.ieee.org/abstract/document/10836738" target="_blank">[paper]</a>
+	</li>
+	<li>
+
+</ul>
+</div>
+</font>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- News
 ======
 ------
@@ -29,8 +59,8 @@ Feel free to [reach out](mailto:mohammadreza.bakhtiari@stonybrook.edu
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
 	<li>
-		<b>Jul 2023</b>: Our paper "DecompX: Explaining Transformers Decisions by Propagating Token Decomposition" has been accepted to <b>ACL 2023</b>! 
-		<a href="https://aclanthology.org/2023.acl-long.149/" target="_blank">[paper]</a>
+		<b>Jan 2025</b>: Our paper "Global Perspectives on Laptop Features: A Sentiment Analysis of User Preferences in Developed and Developing Countries" has been published.
+		<a href="https://ieeexplore.ieee.org/abstract/document/10836738" target="_blank">[paper]</a>
 	</li>
 	<li>
 		<b>Nov 2022</b>: Our paper "BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning" has been accepted to <b>ENLSP@NeurIPS2022</b>! 
