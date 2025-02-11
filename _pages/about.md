@@ -22,7 +22,7 @@ Feel free to [reach out](mailto:mohammadreza.bakhtiari@stonybrook.edu
 
 
 
-News
+<!-- News
 ======
 ------
 <font size="3">
@@ -31,11 +31,24 @@ News
 	<li>
 		<b>Jan 2025</b>: Our paper "Global Perspectives on Laptop Features: A Sentiment Analysis of User Preferences in Developed and Developing Countries" has been published.
 		<a href="https://ieeexplore.ieee.org/abstract/document/10836738" target="_blank">[paper]</a>
+	</li> -->
+
+
+
+News
+======
+------
+<font size="3">
+<div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
+<ul>
+	<li>
+		<b>Jan 2025</b>: Presented two posters at "BRIDGES: A Cross-Departmental Graduate Student Conference", the first graduate-student conference at Stony Brook University.
+		<a href="photos/bridges_conference.html" target="_blank">[photos]</a>
 	</li>
-
-
-
-
+	<li>
+		<b>Jan 2025</b>: Our paper "Global Perspectives on Laptop Features: A Sentiment Analysis of User Preferences in Developed and Developing Countries" has been published.
+		<a href="https://ieeexplore.ieee.org/abstract/document/10836738" target="_blank">[paper]</a>
+	</li>
 
 
 
