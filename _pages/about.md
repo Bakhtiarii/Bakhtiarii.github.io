@@ -12,7 +12,7 @@ About me
 Hi! I am a Graduate student in Electrical Engineering at <b>Stony Brook University</b>. Previously, I received my Bachelor's degree in Electrical Engineering from the <b>University of Tehran</b>. My research spans across multiple fields of artificial intelligence, including <b>Machine Learning</b>, <b>Reinforcement Learning</b>, <b>Optimization</b>, and <b>Social Network Analysis</b>.
 <!-- Hi! I am a master's student at the <b>University of Tehran</b>, and I have the pleasure of working with [Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}, [Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"}, and [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery){:target="_blank"} on natural language processing (NLP) and deep learning. -->
 
-With a strong mathematical background, I am actively involved in all phases of the research and data science lifecycle—from problem formulation and data extraction to statistical modeling and optimization techniques. My work focuses on solving complex, real-world problems using advanced AI models and innovative methodologies.
+<!-- With a strong mathematical background, I am actively involved in all phases of the research and data science lifecycle—from problem formulation and data extraction to statistical modeling and optimization techniques. My work focuses on solving complex, real-world problems using advanced AI models and innovative methodologies. -->
 <!-- My B.Sc. final project was about assessing toxic detection knowledge of foundation models where I showed their interesting ability gained in pre-training as well as possible biases towards specific persons or groups. -->
 
 Feel free to [reach out](mailto:mohammadreza.bakhtiari@stonybrook.edu
