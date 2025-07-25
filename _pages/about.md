@@ -43,7 +43,7 @@ News
 <ul>
 	<li>
 		<b>Jul 2025</b>: Our paper "SOI Matters: Analyzing Multi-Setting Training Dynamics in Pretrained Language Models via Subsets of Interest" has been published on arXiv.
-		<a href="#" target="_blank">[paper]</a>
+		<a href="https://arxiv.org/abs/2507.15236" target="_blank">[paper]</a>
 	</li>
 	<li>
 		<b>Jun 2025</b>: I started a research internship at <a href="https://www.linkedin.com/company/eversourceenergy/posts/?feedView=all" target="_blank">Eversource</a>.
