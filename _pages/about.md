@@ -42,6 +42,10 @@ News
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
 	<li>
+		<b>Aug 2025</b>: Our paper "A Novel Approach to Customer Segmentation for Product Development on Social Media Data: Integrating Aspect-Based Sentiment Analysis and Text Mining" has been published in Knowledge-Based Systems.
+		<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125013103" target="_blank">[paper]</a>
+	</li>
+	<li>
 		<b>Jul 2025</b>: Our paper "SOI Matters: Analyzing Multi-Setting Training Dynamics in Pretrained Language Models via Subsets of Interest" has been published on arXiv.
 		<a href="https://arxiv.org/abs/2507.15236" target="_blank">[paper]</a>
 	</li>
