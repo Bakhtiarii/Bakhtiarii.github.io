@@ -43,7 +43,7 @@ News
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
 	<li>
-		<b>Sep 2025</b>: Our paper "Artificial Intelligence and Sustainable Development: Public Concerns and Governance in Developed and Developing Nations" has been published.
+		<b>Sep 2025</b>: Our paper "Artificial Intelligence and Sustainable Development: Public Concerns and Governance in Developed and Developing Nations" has been published in Cleaner Environmental Systems.
 		<a href="https://www.sciencedirect.com/science/article/pii/S2666789425000868" target="_blank">[paper]</a>
 	</li>
 	<li>
