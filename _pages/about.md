@@ -35,12 +35,17 @@ Feel free to [reach out](mailto:mohammadreza.bakhtiari@stonybrook.edu
 
 
 
+
 News
 ======
 ------
 <font size="3">
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
+	<li>
+		<b>Sep 2025</b>: Our paper "Artificial Intelligence and Sustainable Development: Public Concerns and Governance in Developed and Developing Nations" has been published.
+		<a href="https://www.sciencedirect.com/science/article/pii/S2666789425000868" target="_blank">[paper]</a>
+	</li>
 	<li>
 		<b>Aug 2025</b>: Our paper "A Novel Approach to Customer Segmentation for Product Development on Social Media Data: Integrating Aspect-Based Sentiment Analysis and Text Mining" has been published in Knowledge-Based Systems.
 		<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125013103" target="_blank">[paper]</a>
@@ -63,6 +68,7 @@ News
 </ul>
 </div>
 </font>
+
 
 
 
