@@ -43,6 +43,22 @@ News
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
 	<li>
+		<b>Nov 2025</b>: Our paper "SOI Matters: Analyzing Multi-Setting Training Dynamics in Pretrained Language Models via Subsets of Interest" has been accepted at EMNLP 2025.
+		<a href="https://scholar.google.com/citations?user=B0OxVSsAAAAJ&hl=en" target="_blank">[paper</a> | <a href="photos/EMNLP_4.pdf" target="_blank">poster]</a>
+	</li>
+	<li>
+		<b>Oct 2025</b>: Our paper "Economic Analysis and Optimal Sizing of Battery Storage for Residential Consumers with Solar" has been accepted at NAPS 2025.
+		<a href="https://scholar.google.com/citations?user=B0OxVSsAAAAJ&hl=en" target="_blank">[paper</a> | <a href="photos/NAPS_3.pdf" target="_blank">poster]</a>
+	</li>
+	<li>
+		<b>Oct 2025</b>: Our paper "Uncertainty Management in Distribution Networks: A Comprehensive Review of Advanced Sampling Methods for Renewable Energy Integration" has been accepted at EPDC 2025.
+		<a href="https://scholar.google.com/citations?user=B0OxVSsAAAAJ&hl=en" target="_blank">[paper</a> | <a href="photos/Amir Kabir_2.pdf" target="_blank">poster]</a>
+	</li>
+	<li>
+		<b>Oct 2025</b>: Our paper "Microgrids and Resilience: A Comprehensive Review of Research Approaches and Optimization Strategies" has been accepted at EPDC 2025.
+		<a href="https://scholar.google.com/citations?user=B0OxVSsAAAAJ&hl=en" target="_blank">[paper</a> | <a href="photos/Amir Kabir_1.pdf" target="_blank">poster]</a>
+	</li>
+	<li>
 		<b>Sep 2025</b>: Our paper "Artificial Intelligence and Sustainable Development: Public Concerns and Governance in Developed and Developing Nations" has been published in Cleaner Environmental Systems.
 		<a href="https://www.sciencedirect.com/science/article/pii/S2666789425000868" target="_blank">[paper]</a>
 	</li>
