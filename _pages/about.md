@@ -3,9 +3,21 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - "/about/"
+  - "/about.html"
+feature_row:
+  - title: "Publications"
+    excerpt: "See my full list of publications and links to papers, posters and code."
+    url: "/publications/"
+    btn_label: "See Publications"
+    btn_class: "btn-primary"
+
+  - title: "Projects"
+    excerpt: "Explore selected projects, code and demos."
+    url: "/portfolio/"
+    btn_label: "See Projects"
+    btn_class: "btn-primary"
 ---
 About me
 ======
@@ -17,6 +29,9 @@ Hi! I am a Graduate student in Electrical Engineering at <b>Stony Brook Universi
 
 Feel free to [reach out](mailto:mohammadreza.bakhtiari@stonybrook.edu
 ) if you'd like to connect or discuss potential collaborations.
+
+{% include feature_row %}
+
 
 
 

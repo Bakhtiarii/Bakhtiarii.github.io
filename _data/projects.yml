@@ -1,0 +1,18 @@
+---
+# Example projects file for `site.data.projects`.
+# Add more items following this template.
+- title: "Social Sentiment Explorer"
+  excerpt: "A demo pipeline for extracting aspect-based sentiment from social media and visualizing results."
+  year: 2024
+  repo: "https://github.com/yourusername/social-sentiment-explorer"
+  demo: "/projects/social-sentiment/"
+  image_path: "/images/projects/sentiment.png"
+  tags:
+    - NLP
+    - Visualization
+    - Demo
+  content: |
+    This project collects social media posts about a product, applies aspect-based sentiment
+    analysis, and presents interactive charts to explore user preferences by region and time.
+    Replace these fields with your own project details.
+---
