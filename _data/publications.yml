@@ -3,46 +3,46 @@
 - year: 2025
   items:
     - title: "SOI Matters: Analyzing Multi-Setting Training Dynamics in Pretrained Language Models via Subsets of Interest"
-      authors: "Mohammadreza Bakhtiari, Amirhossein Dabiriaghdam, Sima Vassef, Yadollah Yaghoubzadeh"
+      authors: "Shayan Vassef, Amirhossein Dabiriaghdam, Mohammadreza Bakhtiari, Yadollah Yaghoubzadeh"
       venue: "EMNLP 2025"
       links:
         paper: "https://aclanthology.org/2025.mrl-main.21/"
         poster: "https://bakhtiarii.github.io/photos/EMNLP_4.pdf"
 
     - title: "Economic Analysis and Optimal Sizing of Battery Storage for Residential Consumers with Solar"
-      authors: "Mohammadreza Bakhtiari, Chong Xu, Yue Zhao"
+      authors: "Mohammadreza Bakhtiari, Ce Xu, Yue Zhao"
       venue: "IEEE North American Power Symposium (NAPS) 2025"
       links:
         paper: "https://ieeexplore.ieee.org/document/11272402"
         poster: "https://bakhtiarii.github.io/photos/NAPS_3.pdf"
 
     - title: "A Novel Approach to Customer Segmentation for Product Development on Social Media Data: Integrating Aspect-Based Sentiment Analysis and Text Mining"
-      authors: "Mahdi Maghsoudi, Negar Mohammadi, Mohammadreza Bakhtiari"
+      authors: "Mehrdad Maghsoudi, Navid Mohammadi, Mohammadreza Bakhtiari"
       venue: "Knowledge-Based Systems 2025"
       links:
         paper: "https://www.sciencedirect.com/science/article/abs/pii/S0950705125013103"
 
     - title: "Global Perspectives on Laptop Features: A Sentiment Analysis of User Preferences in Developed and Developing Countries"
-      authors: "Mahdi Maghsoudi, Mohammadreza Bakhtiari, Hadi Bakhtiari"
+      authors: "Mehrdad  Maghsoudi, Mohammadreza Bakhtiari, Hamidreza Bakhtiari"
       venue: "IEEE Access 2025"
       links:
         paper: "https://ieeexplore.ieee.org/abstract/document/10836738"
 
     - title: "Artificial Intelligence and Sustainable Development: Public Concerns and Governance in Developed and Developing Nations"
-      authors: "Mahdi Maghsoudi, Negar Mohammadi, Mohammadreza Bakhtiari"
+      authors: "Mehrdad Maghsoudi, Navid Mohammadi, Mohammadreza Bakhtiari"
       venue: "Cleaner Environmental Systems 2025"
       links:
         paper: "https://www.sciencedirect.com/science/article/pii/S2666789425000868"
 
     - title: "Uncertainty Management in Distribution Networks: A Comprehensive Review of Advanced Sampling Methods for Renewable Energy Integration"
-      authors: "Reza Khalili, Mohammadreza Bakhtiari, Mahyar Dejagah, Hossein S. Daliri, Reza Gharibi, Hossein Nafisi"
+      authors: "Reza Khalili, Mohammadreza Bakhtiari, Mohadese Dejagah, Hassan Sam Daliri, Reza Gharibi,Hamed Nafisi"
       venue: "21st Iran Distribution Conference 2025"
       links:
         paper: "https://ieeexplore.ieee.org/document/11278264"
         poster: "https://bakhtiarii.github.io/photos/Amir%20Kabir_2.pdf"
 
     - title: "Microgrids and Resilience: A Comprehensive Review of Research Approaches and Optimization Strategies"
-      authors: "Reza Khalili, Hossein S. Daliri, Reza Gharibi, Mohammadreza Bakhtiari, Hossein Nafisi, Hossein A. Abyaneh"
+      authors: "Reza Khalili, Hassan Sam Daliri, Reza Gharibi, Mohammadreza Bakhtiari, Hamed Nafisi, Hossein Askarian Abyaneh"
       venue: "21st Iran Distribution Conference 2025"
       links:
         paper: "https://ieeexplore.ieee.org/document/11278253"
