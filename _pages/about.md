@@ -48,15 +48,15 @@ News
 	</li>
 	<li>
 		<b>Oct 2025</b>: Our paper "Economic Analysis and Optimal Sizing of Battery Storage for Residential Consumers with Solar" has been published in NAPS 2025.
-		<a href="https://scholar.google.com/citations?user=B0OxVSsAAAAJ&hl=en" target="_blank">[paper</a> | <a href="photos/NAPS_3.pdf" target="_blank">poster]</a>
+		<a href="https://ieeexplore.ieee.org/document/11272402" target="_blank">[paper</a> | <a href="photos/NAPS_3.pdf" target="_blank">poster]</a>
 	</li>
 	<li>
 		<b>Oct 2025</b>: Our paper "Uncertainty Management in Distribution Networks: A Comprehensive Review of Advanced Sampling Methods for Renewable Energy Integration" has been published in EPDC 2025.
-		<a href="https://scholar.google.com/citations?user=B0OxVSsAAAAJ&hl=en" target="_blank">[paper</a> | <a href="photos/Amir Kabir_2.pdf" target="_blank">poster]</a>
+		<a href="https://ieeexplore.ieee.org/document/11278264" target="_blank">[paper</a> | <a href="photos/Amir Kabir_2.pdf" target="_blank">poster]</a>
 	</li>
 	<li>
 		<b>Oct 2025</b>: Our paper "Microgrids and Resilience: A Comprehensive Review of Research Approaches and Optimization Strategies" has been published in EPDC 2025.
-		<a href="https://scholar.google.com/citations?user=B0OxVSsAAAAJ&hl=en" target="_blank">[paper</a> | <a href="photos/Amir Kabir_1.pdf" target="_blank">poster]</a>
+		<a href="https://ieeexplore.ieee.org/document/11278253" target="_blank">[paper</a> | <a href="photos/Amir Kabir_1.pdf" target="_blank">poster]</a>
 	</li>
 	<li>
 		<b>Sep 2025</b>: Our paper "Artificial Intelligence and Sustainable Development: Public Concerns and Governance in Developed and Developing Nations" has been published in Cleaner Environmental Systems.
