@@ -43,6 +43,10 @@ News
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
 	<li>
+		<b>Feb 2026</b>: Our paper "A hybrid framework for notebook market analysis: Integrating social media sentiment mining with expert knowledge for feature prioritization" has been published in PLOS One.
+		<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342067" target="_blank">[paper]</a>
+	</li>
+	<li>
 		<b>Nov 2025</b>: Our paper "SOI Matters: Analyzing Multi-Setting Training Dynamics in Pretrained Language Models via Subsets of Interest" has been published in EMNLP 2025.
 		<a href="https://aclanthology.org/2025.mrl-main.21/" target="_blank">[paper</a> | <a href="photos/EMNLP_4.pdf" target="_blank">poster]</a>
 	</li>
