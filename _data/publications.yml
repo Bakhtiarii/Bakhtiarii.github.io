@@ -1,5 +1,13 @@
 ---
 # Publications organized by year for site.data.publications
+- year: 2026
+  items:
+    - title: "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark"
+      authors: "Amirhossein Dabiriaghdam, Shayan Vassef, Mohammadreza Bakhtiari, Yasamin Medghalchi, Ilker Hacihaliloglu, Mesrob Ohannessian, Lele Wang, Giuseppe Carenini"
+      venue: "arXiv preprint arXiv:2606.04244"
+      links:
+        paper: "https://arxiv.org/abs/2606.04244"
+
 - year: 2025
   items:
     - title: "SOI Matters: Analyzing Multi-Setting Training Dynamics in Pretrained Language Models via Subsets of Interest"

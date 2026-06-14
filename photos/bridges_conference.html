@@ -12,26 +12,21 @@
             max-width: 1200px;
             margin: 0 auto;
             padding: 40px;
-            min-height: 1200px; /* Ensure plenty of vertical space */
         }
         .photo-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
-            grid-template-rows: auto auto; /* Allow rows to size based on content */
             gap: 40px;
             margin-top: 30px;
-            min-height: 1000px; /* Ensure sufficient vertical space for grid */
         }
         .photo-cell {
             width: 100%;
-            height: 450px; /* Fixed height for each cell */
             display: flex;
             justify-content: center;
-            align-items: center;
+            align-items: flex-start;
         }
         .photo {
             max-width: 100%;
-            max-height: 100%;
             width: auto;
             height: auto;
             object-fit: contain;
@@ -46,25 +41,22 @@
             color: #333;
             margin-bottom: 40px;
         }
+        @media (max-width: 700px) {
+            .photo-grid {
+                grid-template-columns: 1fr;
+            }
+        }
     </style>
 </head>
 <body>
     <div class="photo-container">
-        <h2>BRIDGES Conference Presentation - January 2025</h2>
+        <h2>BRIDGES Conference - Poster Presentations (January 2025)</h2>
         <div class="photo-grid">
-            <!-- Upper Row -->
             <div class="photo-cell">
-                <img class="photo" src="path_to_photo1.jpg" alt="Poster Presentation 1">
+                <img class="photo" src="path_to_photo1.jpg" alt="Poster: Residential Battery Energy Storage System Optimization">
             </div>
             <div class="photo-cell">
-                <img class="photo" src="path_to_photo2.jpg" alt="Poster Presentation 2">
-            </div>
-            <!-- Lower Row -->
-            <div class="photo-cell">
-                <img class="photo" src="path_to_photo3.jpg" alt="Poster Presentation 3">
-            </div>
-            <div class="photo-cell">
-                <img class="photo" src="path_to_photo4.jpg" alt="Poster Presentation 4">
+                <img class="photo" src="path_to_photo2.jpg" alt="Poster: Statistical Sampling Techniques">
             </div>
         </div>
     </div>

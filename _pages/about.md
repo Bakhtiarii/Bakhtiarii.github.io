@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ======
-Hi! I am a third-year Ph.D. student in Electrical Engineering at <b>Stony Brook University</b> and currently a <b>Research Intern at Eversource Energy</b>. Previously, I received my Bachelor's degree in Electrical Engineering from the <b>University of Tehran</b>. My research spans across multiple fields of artificial intelligence, including <b>Machine Learning</b>, <b>Reinforcement Learning</b>, <b>Optimization</b>, and <b>Social Network Analysis</b>.
+Hi! I am a third-year Ph.D. student in Electrical Engineering at <b>Stony Brook University</b> and currently a <b>Research Intern at both Eversource Energy and NEC Laboratories America</b>. Previously, I received my Bachelor's degree in Electrical Engineering from the <b>University of Tehran</b>. My research spans across multiple fields of artificial intelligence, including <b>Machine Learning</b>, <b>Reinforcement Learning</b>, <b>Optimization</b>, and <b>Social Network Analysis</b>.
 <!-- Hi! I am a master's student at the <b>University of Tehran</b>, and I have the pleasure of working with [Mohammad Taher Pilehvar](https://pilehvar.github.io/){:target="_blank"}, [Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/){:target="_blank"}, and [Azadeh Shakery](https://ece.ut.ac.ir/en/~shakery){:target="_blank"} on natural language processing (NLP) and deep learning. -->
 
 <!-- With a strong mathematical background, I am actively involved in all phases of the research and data science lifecycle—from problem formulation and data extraction to statistical modeling and optimization techniques. My work focuses on solving complex, real-world problems using advanced AI models and innovative methodologies. -->
@@ -41,6 +41,13 @@ News
 <font size="3">
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
+	<li>
+		<b>Jun 2026</b>: Our paper "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark" is now available on arXiv.
+		<a href="https://arxiv.org/abs/2606.04244" target="_blank">[paper]</a>
+	</li>
+	<li>
+		<b>May 2026</b>: I started a research internship at <a href="https://www.nec-labs.com/" target="_blank">NEC Laboratories America</a> in Princeton, NJ.
+	</li>
 	<li>
 		<b>Feb 2026</b>: Our paper "A hybrid framework for notebook market analysis: Integrating social media sentiment mining with expert knowledge for feature prioritization" has been published in PLOS One.
 		<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342067" target="_blank">[paper]</a>
