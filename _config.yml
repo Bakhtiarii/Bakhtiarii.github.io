@@ -10,9 +10,8 @@ locale                   : "en-US"
 title                    : "Mohammadreza Bakhtiari"
 title_separator          : "-"
 name                     : &name "Mohammadreza Bakhtiari"
-description              : &description "Ph.D Student at Stony Brook University"
-# url                      : https://bakhtiarii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-url                      : ""
+description              : &description "Third-year Ph.D. student at Stony Brook University"
+url                      : "https://bakhtiarii.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bakhtiarii/bakhtiarii.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -58,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter "mohsen_fayyaz"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -73,8 +72,11 @@ social:
 
 
 # Analytics
+# Disabled for now. The previous owner's Google Analytics was removed.
+# To enable your own, set provider to "google-universal" and add your GA4
+# Measurement ID (looks like "G-XXXXXXXXXX") below.
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -83,7 +85,7 @@ analytics:
 author:
   name             : "Mohammadreza Bakhtiari"
   avatar           : "profile.jpg"
-  bio              : "Graduate Student<br>Stony Brook University"
+  bio              : "Ph.D. Student<br>Stony Brook University"
   location         : "NY, United States"
   employer         :
   pubmed           : 

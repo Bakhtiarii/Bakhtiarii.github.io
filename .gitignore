@@ -1,4 +1,11 @@
+# Jekyll build output
 _site/
 
-
+# Bundler lock (managed by GitHub Pages)
 Gemfile.lock
+
+# macOS clutter
+.DS_Store
+
+# Private CV — kept locally in this project folder, never published to the web
+files/Bakhtiari_CV.pdf
